@@ -44,7 +44,18 @@
    ```sh
    pip install -r requirements.txt
    ```
-
+### ERROR INSTALL MODULE IN TERMUX
+scrap.py
+  ```sh
+  python -m pip install requests
+  ```
+  ```sh
+  python -m pip install bs4
+  ```
+check.py
+  ```sh
+  python -m pip install colorama
+  ```
 ### Usage
    ```sh
    python scrap.py --help
