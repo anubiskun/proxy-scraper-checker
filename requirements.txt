@@ -1,3 +1,7 @@
+wheel
+selectors
+bs4
 beautifulsoup4
 requests
 colorama
+asyncio
